@@ -1,0 +1,11 @@
+.container {
+    max-width: 960px;
+}
+
+.customer-select {
+    max-width: 300px;
+}
+
+.quantity-input {
+    max-width: 100px;
+}
