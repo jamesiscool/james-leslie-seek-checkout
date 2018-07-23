@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,WACI,eAAiB,CAGrB,iBACI,eAAiB,CAGrB,gBACI,eAAiB","file":"static/css/main.402c095c.css","sourcesContent":[".container {\n    max-width: 960px;\n}\n\n.customer-select {\n    max-width: 300px;\n}\n\n.quantity-input {\n    max-width: 100px;\n}\n\n\n// WEBPACK FOOTER //\n// ./src/index.css"],"sourceRoot":""}
