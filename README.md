@@ -1,8 +1,8 @@
 ### Seek checkout
 
-#####Install
+####Install
 ```npm install``` or ```yarn```
-#####Start
+####Start
 ```npm start``` or ```yarn start```
-#####Test
+####Test
 ```npm test``` or ```yarn test```
